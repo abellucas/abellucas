@@ -11,6 +11,7 @@ Sou estudante de Sistemas de Informação, atualmente no 6º Período.
 - CSS
 - um pouquinho de JQuery
 - um pouquinho de Ajax
+- um pouquinho de C#
 
 ## Me interesso por...
 
