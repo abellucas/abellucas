@@ -1,16 +1,22 @@
-### Hi there 👋
+### Oie, tudo bem? 👋
 
-<!--
-**abellucas/abellucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Abel Lucas, mas você pode me chamar de abelhucas! 
 
-Here are some ideas to get you started:
+Sou estudante de Sistemas de Informação, atualmente no 6º Período.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que eu estou aprendendo/revisando no momento:
+- a não surtar com mini projetos
+- a ser mais persistente na hora de programar 
+- Html
+- CSS
+- um pouquinho de JQuery
+- um pouquinho de Ajax
+
+## Me interesso por...
+
+- FrontEnd
+- UX/UI Design
+- Design
+- Ilustração
+
+## Por enquanto, isso é tudo pessoal! 
