@@ -2,7 +2,7 @@
 
 Me chamo Abel Lucas, mas você pode me chamar de abelhucas! 
 
-Sou estudante de Sistemas de Informação, atualmente no 6º Período.
+Sou estudante de Sistemas de Informação, atualmente no 7º Período.
 
 ## Me interesso por...
 
